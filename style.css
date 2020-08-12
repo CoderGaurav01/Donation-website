@@ -1,0 +1,27 @@
+#banner-image{
+    /*padding-bottom: 50px;
+    padding-top: 75px;
+    text-align: center;
+    color: #f8f8f8;*/
+    background: url(bgs.jpg)no-repeat center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+#banner_content{
+    position: fixed;
+    padding: 6%;
+
+
+    margin-top: 10%;
+    margin-left: 52%;
+    background-color: rgba(82, 187, 106, 0.4);
+    max-width: 660px; 
+    border-radius: 50%;
+    box-shadow: 20px;
+}
+.box{
+    position: relative;
+    top: 10vw;
+
+}
